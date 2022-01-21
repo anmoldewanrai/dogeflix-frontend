@@ -22,7 +22,7 @@ export function CTA() {
 							</p>
 						</div>
 						<div className="lg:w-1/2 flex items-start sm:items-center lg:justify-end mt-6 xl:mt-0">
-							<Button size="xl" variant="white">
+							<Button href="/home" size="xl" variant="white">
 								Watch Now
 							</Button>
 						</div>
